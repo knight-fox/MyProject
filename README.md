@@ -1,2 +1,2 @@
 # MyProject
-My first website.
+this is a place where i will be uploading my public projects.
